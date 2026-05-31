@@ -1,4 +1,6 @@
--- CONSULTAS
+-- ============================================================
+--  FOCA – DQL – Consultando dados
+-- ============================================================
 
 SELECT nome, area_conhecimento
 FROM disciplina
