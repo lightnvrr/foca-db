@@ -30,8 +30,8 @@ O repositório está organizado para refletir todas as etapas do desenvolvimento
 * 📄 **`01_ddl.sql`**: Scripts de criação das tabelas, definição de tipos de dados e aplicação de restrições de integridade (Primary Keys, Foreign Keys, `UNIQUE`, `CHECK`).
 * 📄 **`02_dml.sql`**: Scripts de inserção (população do banco) com dados representativos, cobrindo diversos casos de borda essenciais para testar as regras de negócio.
 * 📄 **`03_consultas.sql`**: Bateria de 10 consultas SQL de complexidade progressiva. Inclui seleções simples, junções variadas (`INNER`, `LEFT`, `RIGHT`), subconsultas (correlacionadas e não-correlacionadas), operadores de conjunto e agregações (`GROUP BY`/`HAVING`). Também inclui a criação da `VIEW` `vw_estado_rotina`.
-* 🖼️ **`foca-bd-Modelo-ER.png`**: Diagrama Entidade-Relacionamento (ER) ilustrando a modelagem conceitual do sistema.
-* 📑 **`Foca_Projeto_BD.pdf`**: Relatório completo do projeto detalhando o mini-mundo, as decisões de mapeamento, análise crítica do modelo e justificativas técnicas.
+* 🖼️ **`foca_bd_modelo_ER.png`**: Diagrama Entidade-Relacionamento (ER) ilustrando a modelagem conceitual do sistema.
+* 📑 **`Foca_Projeto_Relatorio.pdf`**: Relatório completo do projeto detalhando o mini-mundo, as decisões de mapeamento, análise crítica do modelo e justificativas técnicas.
 
 ## 🚀 Como Executar
 
